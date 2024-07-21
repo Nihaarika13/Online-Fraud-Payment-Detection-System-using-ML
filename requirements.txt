@@ -13,3 +13,6 @@ scikit-learn
 boto3
 IPython
 matplotlib.pyplot
+
+The dataset initially used is downloaded from KAGGLE- LINK: https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset
+<a href="https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset" target="_blank">Kaggle Dataset</a>
