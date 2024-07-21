@@ -1,8 +1,10 @@
 # Onlie-Fraud-Payment-Detection-System-using-ML
 This is a web application created using: Python and ML Concepts. The main aim of this system is to identify the real time fraudulent transactions and report them.
 This application is designed to help financial institutions and payment processors detect and report fraudulent transactions in real-time. By leveraging machine learning models, it can identify potentially fraudulent activities based on transaction details provided by the user.
+
 We've utilized the power of Random Forest Classifer Machine Learning model to detect fraudulent activity in online transactions.
 This model  has been trained on a comprehensive dataset and has demonstrated a high level of accuracy in detecting fraudulent transactions. Regular updates and retraining of the model ensure that it stays effective in identifying new patterns of fraud.
+
 The dataset initially used is downloaded from KAGGLE- LINK: 
 <a href="https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset" target="_blank">Kaggle Dataset</a>
 
