@@ -1,0 +1,15 @@
+#Required libraries to run all the Milestones and Application
+numpy
+pandas
+streamlit
+PIL
+streamlit_option_menu
+os
+pickle
+joblib
+base64
+sklearn
+scikit-learn
+boto3
+IPython
+matplotlib.pyplot
