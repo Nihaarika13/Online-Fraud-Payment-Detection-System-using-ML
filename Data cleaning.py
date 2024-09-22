@@ -1,5 +1,5 @@
 import pandas as pd
-#The below mentioned file's link is mntioned as "Initial dataset link". Check that link to download the dataset
+#The below mentioned file's link is mentioned as "Initial dataset link". Check that link to download the dataset
 df=pd.read_csv('PS_20174392719_1491204439457_log.csv')
 is_null = df.isnull().values.any()
 if is_null:
