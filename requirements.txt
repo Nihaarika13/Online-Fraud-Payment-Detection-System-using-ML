@@ -1,18 +1,13 @@
-#Required libraries to run all the Milestones and Application
 numpy
 pandas
 streamlit
-PIL
-streamlit_option_menu
-os
-pickle
+Pillow
+streamlit-option-menu
+os-sys
+pickle5
 joblib
 base64
-sklearn
 scikit-learn
 boto3
-IPython
-matplotlib.pyplot
-
-The dataset initially used is downloaded from KAGGLE- LINK: https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset
-<a href="https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset" target="_blank">Kaggle Dataset</a>
+ipython
+matplotlib
