@@ -4,7 +4,6 @@ streamlit
 Pillow
 streamlit-option-menu
 os-sys
-pickle5
 joblib
 scikit-learn
 boto3
