@@ -6,7 +6,6 @@ streamlit-option-menu
 os-sys
 pickle5
 joblib
-base64
 scikit-learn
 boto3
 ipython
