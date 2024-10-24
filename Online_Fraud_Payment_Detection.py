@@ -5,9 +5,9 @@ import pickle, joblib
 import pandas as pd
 import base64
 # load the pre-trained Random Forest Classifier model
-model = joblib.load("bin/fraud_detection_model.joblib")
+model = joblib.load("fraud_detection_model.joblib")
 # load the pre-fitted StandardScaler
-with open("bin/scaler.pkl", "rb") as f:
+with open("scaler.pkl", "rb") as f:
     scaler = pickle.load(f)
 
 def header_with_logo():
